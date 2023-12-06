@@ -18,3 +18,6 @@ I suspect that there will be more observations on domestic animals than on wild 
 This will help identify if there are any symptoms that are generally not dangerous.
 9. What is the percentage of animals that died?
 10. What are the symptoms that accompanied death and in what quantities did those symptoms occur among the dead animals?
+
+### Bonus:
+- Use K-Nearest Neighbors for Binary Classification as "dangerous" or "not dangerous" based on symptoms.
