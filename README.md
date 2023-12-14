@@ -17,7 +17,6 @@ I suspect that there will be more observations on domestic animals than on wild 
 8. Which symptoms appear more in non-dangerous cases than they do in dangerous cases and of those symptoms which one had the highest non-dangerous occurrence to dangerous occurrence ratio?  
 This will help identify if there are any symptoms that are generally not dangerous.
 9. What is the percentage of animals that died?
-10. What are the symptoms that accompanied death and in what quantities did those symptoms occur among the dead animals?
-
-### Bonus:
-- Use K-Nearest Neighbors for Binary Classification as "dangerous" or "not dangerous" based on symptoms.
+### Inferential Data Analysis
+10. Train a machine learning model for classifying the condition of the animals as dangerous or not dangerous based on their symptoms.
+11. Visualize the performance of the trained machine learning model.
