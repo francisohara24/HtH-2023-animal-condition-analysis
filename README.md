@@ -1,4 +1,4 @@
-# HtH-animal-condition-analysis
+# HtH-2023-animal-condition-analysis
 This is an exploratory data analysis project I worked on as my capstone during the Hack the Hood Fall 2023 Build program.
 
  - I chose to analyze the Animal Conditions dataset by Grace Hephzibah M. and William Oliveira Gibin available on Kaggle at [this link](https://www.kaggle.com/datasets/willianoliveiragibin/animal-condition).
