@@ -5,7 +5,7 @@ This is an exploratory data analysis project I worked on as my capstone during t
  - This particular dataset inherently stood out to me when I was searching for a dataset I could use because I thought it'd be interesting to find the particular symptoms or combination of symptoms that cause a condition to be dangerous as opposed to non-dangerous although that is more in the domain of inferential data analysis.
  - I also had a childhood dream of becoming a vet when I was in grade school, and I think this is one way I can get close to fulfilling that dream.
 
-### Analysis Questions
+## Analysis Questions
 I sought to answer the following questions about the dataset:
 1. What kinds of animals are present in the dataset and in what quantities?
 2. What is the proportion of domestic animals to wild animals in the dataset?  
