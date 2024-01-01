@@ -1,6 +1,6 @@
 # HtH-2023-animal-condition-analysis
 ![Dataset Cover Image](https://github.com/francisohara24/HtH-2023-animal-condition-analysis/blob/master/data/dataset-cover.jpg?raw=true)  
-This is an exploratory data analysis project I worked on as my capstone during the Hack the Hood Fall 2023 Build Data Science program.
+This is an exploratory data analysis project I worked on as my capstone during the Hack the Hood Fall 2023 Build Data Science bootcamp.
  - I chose to analyze the Animal Conditions dataset by Grace Hephzibah M. and William Oliveira Gibin available on Kaggle at [this link](https://www.kaggle.com/datasets/willianoliveiragibin/animal-condition).
  - This particular dataset inherently stood out to me when I was searching for a dataset I could use because I thought it'd be interesting to find the particular symptoms or combination of symptoms that cause a condition to be dangerous as opposed to non-dangerous although that is more in the domain of machine learning.
  - I also had a childhood dream of becoming a vet when I was in grade school, and I think this is one way I can get close to fulfilling that dream.
