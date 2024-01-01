@@ -20,3 +20,6 @@ This will help identify if there are any symptoms that are generally not dangero
 9. What is the percentage of animals that died?
 10. A) Train a machine learning model for classifying the condition of the animals as dangerous or not dangerous based on their symptoms.  
     B) Visualize the performance of the trained machine learning model.
+
+## Demo notebook
+Access a Google Colab notebook for the project at [this link](https://colab.research.google.com/github/francisohara24/HtH-2023-animal-condition-analysis/blob/master/animal_condition_analysis.ipynb).
